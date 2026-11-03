@@ -1,0 +1,41 @@
+{
+  "higher_thought": {
+    "name": "Higher Thought",
+    "tagline": "Tech Troubleshooting, Electronics Repair & AI Setups",
+    "hours": "Open for calls 24/7 - the front desk answers day and night",
+    "location": "Fontana, CA (drop-off by appointment)",
+    "services": [
+      "Tech Troubleshooting & Setup: Free diagnostic look - exact quote after seeing the setup (computers, phones, Wi-Fi, smart home)",
+      "Electronics Repair & Soldering: Free diagnostic look - exact quote after inspection (circuit boards, charge ports, e-bikes & scooters, consoles)",
+      "Custom 3D Printing: Quoted per job after seeing the part or design (replacement parts, prototypes, one-offs)",
+      "AI Front Desk Setup for Local Shops: Quoted after a walkthrough (an AI receptionist that answers, books, and captures leads 24/7 - like this one)"
+    ],
+    "policies": "Drop-off only, by appointment (AI setups are the exception - those are installed at the client's shop). The diagnostic look is always free: you get an exact quote only after we have seen the job, never a guess sight-unseen. Workmanship guarantee: if a repair fails because of our work, we fix it free. To book a drop-off or a quote, leave your name and phone number and the owner will text you back. Payment is due upfront by Zelle or Cash App once you approve the quote."
+  },
+  "foothill_detail": {
+    "name": "Foothill Pro Auto Detail",
+    "tagline": "Fontana's Premier Mobile & Shop Detailing",
+    "hours": "Mon-Sat 8:00 AM - 6:00 PM, Closed Sundays",
+    "location": "Foothill Blvd, Fontana, CA (Mobile service available within 15 miles)",
+    "services": [
+      "Express Hand Wash & Vac: $55 (45 mins - exterior foam wash, wheel scrub, interior vacuum, window wipe)",
+      "Full Interior Deep Clean: $160 (2.5 hours - steam cleaning, carpet shampoo, leather conditioning, odor bomb)",
+      "Complete Inside & Out Showroom Detail: $240 (4 hours - clay bar, 1-step polish, carnauba wax, full interior steam)",
+      "Ceramic Coating Package: Starting at $550 (paint correction + 3-year hydrophobic protection)"
+    ],
+    "policies": "SUVs and lifted trucks add $25. We require a name and phone number to hold an appointment slot. Same-day cancellations have a $20 fee."
+  },
+  "sierra_barber": {
+    "name": "Sierra Ave Classic Cuts",
+    "tagline": "Sharp Fades, Beard Sculpting & Hot Towel Shaves",
+    "hours": "Tue-Fri 9:00 AM - 7:00 PM, Sat 8:00 AM - 5:00 PM, Closed Sun-Mon",
+    "location": "Sierra Ave, Fontana, CA",
+    "services": [
+      "Classic Haircut / Skin Fade: $35 (40 mins - includes straight razor neck shave)",
+      "Haircut & Beard Trim Combo: $50 (60 mins - full fade plus beard shaping and line-up)",
+      "Royal Hot Towel Shave: $40 (45 mins - hot lather, essential oils, straight razor shave, cool towel finish)",
+      "Kids Cut (Under 12): $25 (30 mins)"
+    ],
+    "policies": "Walk-ins welcome, but booked appointments take priority. Cash, Zelle, and cards accepted. Please arrive 5 minutes before your slot."
+  }
+}

@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.streamlit/secrets.toml
+leads.csv
+.DS_Store
+shops.json.bak
